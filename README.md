@@ -1,5 +1,9 @@
 # A*-Visualizer-
+
+
 <img width="802" alt="Screenshot 2023-07-15 at 6 13 07 PM" src="https://github.com/MitSheth7/A-Visualizer-/assets/88057396/bd385a80-32da-4fea-af35-f06a64eb584c">
+
+
 
 In this project, I have implemented the A* Pathfinding Algorithm using Python and created a visual representation of the algorithm's operation using the Pygame library.
 
